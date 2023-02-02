@@ -10,4 +10,10 @@ Anschließend die Konsole öffnen und zu dem Order .../Battleship/out/artifacts/
 ### Koordinaten eingeben 
 Wenn das zu setzende Schiff 3 Felder einnimmt, dann sind die Koordinaten bspw. wie folgt einzugeben: G1 G3
 
+### Troubleshoot Invalid VCS root mapping
+Bis ich den Fehler behoben habe, kann er wie folgt beseitigt werden:
+
+1. klicke auf Configure...
+2. klicke auf die Spalte VCS und wähle 'none' aus dem Dropdown Menü an
+
 Viel Spaß!
