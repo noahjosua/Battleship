@@ -1,6 +1,6 @@
 # Battleship
 
-Um die Anwendung direkt in der Konsole testen zu können, muss Oracle OpenJDK version 18.0.1.1 auf deinem System installiert und in den Umgebungsvariablen gesetzt sein.
+Um die Anwendung direkt in der Konsole testen zu können, muss Oracle OpenJDK version 18.0.1.1 (https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html) auf deinem System installiert und in den Umgebungsvariablen gesetzt sein.
 
 Systemvariable JAVA_HOME = Pfad zum heruntergeladenen JDK 18.0.1.1
 der Systemvariable Path den Wert %JAVA_HOME%\bin hinzufügen
